@@ -1,0 +1,46 @@
+/** global **/
+*{font:12px/1.5 tahoma,arial,'Hiragino Sans GB','\5FAE\8F6F\96C5\9ED1','\5b8b\4f53',sans-serif;font-weight:normal;color:#333;line-height:15px;margin:0;padding:0;list-style:none;text-decoration:none;}
+img{border:0;vertical-align:middle;}
+html{overflow-y:scroll;}
+body{margin:0;background-color:#f8f8f8;}
+textarea{resize:none;}
+em {font-style:normal;}
+.left{float:left;}
+.txt{height:23px;line-height:23px;border:1px solid #bbbbbb;}
+/** global end **/
+
+/** top-bar **/
+.top-bar{background:#fcfcfc;border-bottom:1px solid #ededed;height:40px;line-height:40px;}
+.top-bar div{width:980px;margin:0 auto;}
+.top-bar div *{color:#999999;}
+.top-bar span{float:left;line-height:40px;padding-left:11px;}
+.top-bar label{line-height:40px;text-decoration:underline;cursor:pointer;}
+.top-bar a{line-height:40px;color:#cc0000;}
+/** top-bar end **/
+
+/** main-body **/
+.main-body{width:980px;margin:0px auto;}
+/** main-body end **/
+
+/** main-content **/
+.main-content{margin:10px;}
+/** main-content end **/
+
+/*常用样式*/
+.left{float:left;}
+.right{float:right;}
+
+.mrgL10{margin-left:10px;}
+.mrgL20{margin-left:20px;}
+.mrgL60{margin-left:60px;}
+.mrgR5{margin-right:5px;}
+.mrgR10{margin-right:10px;}
+.mrgR15{margin-right:15px;}
+.mrgR20{margin-right:20px;}
+.mrgT5{margin-top:5px;}
+.mrgT10{margin-top:10px;}
+.mrgT20{margin-top:20px;}
+.mrgB5{margin-bottom:5px;}
+.mrgB10{margin-bottom:10px;}
+
+.aBlue,.aBlue:visited,.aBlue a{color:#36c;}
